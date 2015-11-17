@@ -1,5 +1,5 @@
 html { 
-  background: url(images/bg.jpeg) no-repeat center center fixed; 
+  background: url(images/bg1.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,8 +24,13 @@ p {
   font-family: 'Merriweather', serif;
 }
 
+a {
+  text-decoration: none;
+  color: #CCC;
+}
+
 .box {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.6);
   width: 500px;
   margin: 100px auto;
   padding: 10px 75px;

@@ -1,0 +1,33 @@
+html { 
+  background: url(images/bg.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #FFF;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 4em;
+  font-weight: 100;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+.box {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 500px;
+  margin: 100px auto;
+  padding: 10px 75px;
+  text-align: center;
+}

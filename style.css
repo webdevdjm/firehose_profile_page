@@ -5,6 +5,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
   color: #FFF;
+
 }
 
 h1 {
@@ -22,6 +23,7 @@ h2 {
 
 p {
   font-family: 'Merriweather', serif;
+  line-height: 1.5em;
 }
 
 a {
@@ -31,8 +33,8 @@ a {
 
 .box {
   background-color: rgba(0, 0, 0, 0.6);
-  width: 500px;
+  width: 45%;
   margin: 100px auto;
-  padding: 10px 75px;
+  padding: 15px 25px;
   text-align: center;
 }
